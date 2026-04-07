@@ -1,5 +1,5 @@
 // 12S25019 - Gebriel Glen Marcel Pakpahan
-// NIM - Name
+
 
 #include <stdio.h>
 
